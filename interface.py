@@ -4,6 +4,7 @@ from PIL import Image, ImageTk
 import cv2
 import numpy as np
 from FinalMergingProject import *
+# from HistogramMatching import *
 
 # Function to open an image file and display it in a label
 def open_image(label, image_path):
